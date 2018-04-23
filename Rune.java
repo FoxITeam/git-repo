@@ -1,5 +1,8 @@
 package ru.foxit.grayfox;
 
 public class Rune {
-print tra ta ta
+    public static void main(String[] args) {
+        System.out.println("not fix");
+    }
 }
+
